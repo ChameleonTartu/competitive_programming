@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 
 using namespace std;
@@ -23,7 +22,5 @@ int main() {
 		}
 		driver -= minus;
 	}
-	//while (1);
 	return 0;
 }
-*/

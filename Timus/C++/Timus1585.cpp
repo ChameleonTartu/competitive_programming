@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <string>
 
@@ -32,7 +31,5 @@ int main() {
 		cout << penguins.macaroni.first << endl;
 	else
 		cout << penguins.little.first << endl;
-	//while (1);
 	return 0;
 }
-*/

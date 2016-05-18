@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 
 using namespace std;
@@ -22,7 +21,5 @@ int main() {
 
 	if (flag)
 		cout << "-1";
-	//while (1);
 	return 0;
 }
-*/

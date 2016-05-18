@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <string>
 
@@ -31,4 +30,3 @@ int main() {
 	cout << create_result_string(N) << endl;
 	return 0;
 }
-*/

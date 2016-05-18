@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <string>
 #include <map>
@@ -23,4 +22,3 @@ int main()
 	cout << max_pair.first << endl;
 	return 0;
 }
-*/

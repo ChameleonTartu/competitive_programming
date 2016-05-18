@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <string>
 
@@ -34,7 +33,5 @@ int main() {
 	else {
 		cout << "No" << endl;
 	}
-	//while (1);
 	return 0;
 }
-*/

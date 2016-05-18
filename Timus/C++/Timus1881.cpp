@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <string>
 #include <cmath>
@@ -22,7 +21,5 @@ int main() {
 		}
 	}
 	cout << ceil(1. * line/h) << endl;
-	//while (1);
 	return 0;
 }
-*/

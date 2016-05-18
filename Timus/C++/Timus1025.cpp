@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <algorithm>
 #include <vector>
@@ -38,4 +37,3 @@ int main() {
 	cout << votePoint.minVotesInGroups() << endl;
 	return 0;
 }
-*/

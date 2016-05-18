@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 
 using namespace std;
@@ -20,7 +19,5 @@ int main() {
 		}
 	}
 	cout << next << endl;
-	//while (1);
 	return 0;
 }
-*/

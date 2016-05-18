@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 
 using namespace std;
@@ -19,4 +18,3 @@ int main() {
 	cout << unused << " " << survived << endl;
 	return 0;
 }
-*/

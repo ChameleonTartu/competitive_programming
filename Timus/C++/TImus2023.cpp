@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <set>
 #include <string>
@@ -32,4 +31,3 @@ int main() {
 	cout << sum << endl;
 	return 0;
 }
-*/

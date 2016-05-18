@@ -1,4 +1,3 @@
-/*
 #include <iostream> 
 
 using namespace std;
@@ -15,7 +14,5 @@ int main() {
 		amount += 1;
 	}
 	cout << amount << " " << previous << endl;
-	//while (1);
 	return 0;
 }
-*/

@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 
 using namespace std;
@@ -24,4 +23,3 @@ int main() {
 	cout << served_trains << endl;
 	return 0;
 }
-*/

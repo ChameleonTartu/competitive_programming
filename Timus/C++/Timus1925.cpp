@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 
 using namespace std;
@@ -13,7 +12,5 @@ int main() {
 
 	if (sum_one - 2 * (n + 1) - sum_two < 0) cout << "Big Bang!" << endl;
 	else cout << (sum_one - 2 * (n + 1) - sum_two) << endl;
-	//while (1);
 	return 0;
 }
-*/

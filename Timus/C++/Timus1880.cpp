@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -27,4 +26,3 @@ int main() {
 	cout << count << endl;
 	return 0;
 }
-*/

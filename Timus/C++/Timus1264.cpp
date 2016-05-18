@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 
 using namespace std;
@@ -8,4 +7,3 @@ int main() {
 	cout << n * (m + 1) << endl;
 	return 0;
 }
-*/

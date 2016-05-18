@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <string>
 #include <set>
@@ -19,4 +18,3 @@ int main() {
 	cout << (number_of_malls - stores.size()) << endl;
 	return 0;
 }
-*/

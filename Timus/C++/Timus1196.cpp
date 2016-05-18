@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -43,4 +42,3 @@ int main() {
 	cout << occurance << endl;
 	return 0;
 }
-*/

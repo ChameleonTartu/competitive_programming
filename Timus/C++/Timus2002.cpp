@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <string>
 #include <map>
@@ -95,5 +94,3 @@ int main() {
 	forum.read_all_commands();
 	return 0;
 }
-
-*/

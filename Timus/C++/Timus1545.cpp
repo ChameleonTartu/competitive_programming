@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <string>
 #include <vector>
@@ -19,7 +18,5 @@ int main() {
 		if (v[i][0] == ch)
 			cout << v[i] << endl;
 	}
-	//while (1);
 	return 0;
 }
-*/

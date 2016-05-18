@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <string>
 #include <set>
@@ -24,7 +23,5 @@ int main() {
 		}
 	}
 	cout << sum << endl;
-	//while (1);
 	return 0;
 }
-*/

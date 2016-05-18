@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 
 using namespace std;
@@ -10,7 +9,5 @@ int main() {
 			++sum;
 	}
 	cout << sum << endl;
-	//while (1);
 	return 0;
 }
-*/

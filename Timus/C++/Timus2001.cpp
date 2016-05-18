@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 
 using namespace std;
@@ -9,4 +8,3 @@ int main() {
 	cout << a1 - a3 << " " << b1 - b2 << endl;
 	return 0;
 }
-*/

@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <set>
 #include <vector>
@@ -32,7 +31,5 @@ int main() {
 		else cout << 0;
 	}
 	cout << endl;
-	//while (1);
 	return 0;
 }
-*/

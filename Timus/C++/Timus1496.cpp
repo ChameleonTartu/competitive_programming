@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <string>
 #include <map>
@@ -20,7 +19,5 @@ int main() {
 		if (i.second > 1)
 			cout << i.first << endl;
 	}
-	//while (1);
 	return 0;
 }
-*/

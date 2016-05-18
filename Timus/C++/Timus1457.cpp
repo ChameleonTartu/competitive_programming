@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 
 using namespace std;
@@ -14,4 +13,3 @@ int main() {
 	cout << fixed << (double)points_sum / points << endl;
 	return 0;
 }
-*/

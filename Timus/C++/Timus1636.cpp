@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 
 using namespace std;
@@ -14,7 +13,5 @@ int main() {
 	if (two - sum < one)
 		cout << "Dirty debug :(" << endl;
 	else cout << "No chance." << endl;
-	//while (1);
 	return 0;
 }
-*/
